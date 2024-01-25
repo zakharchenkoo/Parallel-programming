@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "zakharchenko_kn-3-2_lab1/1.0.0": {
+        "runtime": {
+          "zakharchenko_kn-3-2_lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zakharchenko_kn-3-2_lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

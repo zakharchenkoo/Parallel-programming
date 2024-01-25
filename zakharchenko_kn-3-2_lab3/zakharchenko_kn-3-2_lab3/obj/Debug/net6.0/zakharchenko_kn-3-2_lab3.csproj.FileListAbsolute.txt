@@ -1,0 +1,15 @@
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\bin\Debug\net6.0\zakharchenko_kn-3-2_lab3.exe
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\bin\Debug\net6.0\zakharchenko_kn-3-2_lab3.deps.json
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\bin\Debug\net6.0\zakharchenko_kn-3-2_lab3.runtimeconfig.json
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\bin\Debug\net6.0\zakharchenko_kn-3-2_lab3.dll
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\bin\Debug\net6.0\zakharchenko_kn-3-2_lab3.pdb
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\obj\Debug\net6.0\zakharchenko_kn-3-2_lab3.csproj.AssemblyReference.cache
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\obj\Debug\net6.0\zakharchenko_kn-3-2_lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\obj\Debug\net6.0\zakharchenko_kn-3-2_lab3.AssemblyInfoInputs.cache
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\obj\Debug\net6.0\zakharchenko_kn-3-2_lab3.AssemblyInfo.cs
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\obj\Debug\net6.0\zakharchenko_kn-3-2_lab3.csproj.CoreCompileInputs.cache
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\obj\Debug\net6.0\zakharchenko_kn-3-2_lab3.dll
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\obj\Debug\net6.0\refint\zakharchenko_kn-3-2_lab3.dll
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\obj\Debug\net6.0\zakharchenko_kn-3-2_lab3.pdb
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\obj\Debug\net6.0\zakharchenko_kn-3-2_lab3.genruntimeconfig.cache
+D:\university\паралельне програмування\zakharchenko_kn-3-2_lab3\zakharchenko_kn-3-2_lab3\obj\Debug\net6.0\ref\zakharchenko_kn-3-2_lab3.dll
